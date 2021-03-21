@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>voice</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <h1 class="title">Voice</h1>
+    <p>moi</p>
+  </body>
+</html>
